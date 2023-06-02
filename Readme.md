@@ -1,4 +1,5 @@
 How to run the Student Management System (StudentMS) Project
+![image](https://github.com/ZOUHAIRFGRA/Student-management-system/assets/88293311/2447ad0e-3adb-485a-be7a-0e0b44ae5347)
 
 1. Download the  zip file
 
